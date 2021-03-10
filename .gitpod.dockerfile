@@ -4,7 +4,7 @@
 FROM gitpod/workspace-mysql
 
 ### General Settings ###
-ENV PHP_VERSION="8.1"
+ENV PHP_VERSION="8.0"
 ENV APACHE_DOCROOT="public_html"
 
 ### Setups, Node, NPM ###
